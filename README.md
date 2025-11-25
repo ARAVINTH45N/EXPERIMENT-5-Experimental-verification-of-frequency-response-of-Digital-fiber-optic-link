@@ -78,7 +78,7 @@ cap. Now tighten the cap by screwing it back.
 
 ## BLOCK DIAGRAM
 
-<img width="525" height="302" alt="514896219-9aa4dd86-6fff-44b5-aee5-f7c4ee789b1a" src="https://github.com/user-attachments/assets/c9f5ff1f-6343-4ebb-8e40-0b5637be25aa" />
+ <img width="525" height="302" alt="514896219-9aa4dd86-6fff-44b5-aee5-f7c4ee789b1a" src="https://github.com/user-attachments/assets/c9f5ff1f-6343-4ebb-8e40-0b5637be25aa" />
 ---
 
 
