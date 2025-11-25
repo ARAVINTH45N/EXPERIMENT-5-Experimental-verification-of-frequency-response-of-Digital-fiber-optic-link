@@ -44,7 +44,7 @@ transistor, thus limiting the output voltage to the supply voltage.
 ---
 
 ## PROCEDURE
-Refer to the block diagram & carry out the following connections and settings. 
+▪ Refer to the block diagram & carry out the following connections and settings. 
 ▪ Connect the power supply with proper polarity to the kit link-B and switch it on. 
 ▪ Keep all Switch Faults in OFF position. 
 ▪ Keep switch SW8 towards TX position. 
@@ -54,14 +54,15 @@ Refer to the block diagram & carry out the following connections and settings.
 ▪ Keep Jumpers JP6 shorted. 
 ▪ Keep Jumper JP8 towards Pulse position. 
 ▪ Feed TTL Square wave signal of 1KHz from the function generator to the IN post of 
-Digital Buffer.  Connect the output post OUT of Digital Buffer to the post TX IN of Transmitter. 
+Digital Buffer. 
+▪ Connect the output post OUT of Digital Buffer to the post TX IN of Transmitter. 
 ▪ Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. 
 Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by 
 screwing it back. 
 ▪ Connect the other end of the Fiber to detector SFH551V (Photo Transistor Detector) very 
 carefully. 
-▪ Observe the detected signal at post TTL OUT on oscilloscope.
-To measure the digital bandwidth of the phototransistor vary the input signal frequency and observe 
+▪ Observe the detected signal at post TTL OUT on oscilloscope. 
+▪ To measure the digital bandwidth of the phototransistor vary the input signal frequency and observe 
 the detected signal at various frequencies. 
 ▪ Determine the frequency at which the detector stops recovering the signal. This determines the max. 
 bit rate on the digital link. 
@@ -70,8 +71,7 @@ bit rate on the digital link.
 ▪ Remove fiber cable from SFH756V (660nm) and slightly unscrew the cap of SFH450V (950nm). Do 
 not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the 
 cap. Now tighten the cap by screwing it back. 
-▪ Observe the detected signal at post TTL OUT on oscilloscope.
-
+▪ Observe the detected signal at post TTL OUT on oscilloscope. 
 ---
 
 
